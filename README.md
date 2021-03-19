@@ -8,5 +8,11 @@ Ill be saving some of my favourite resources here.
 
 https://www.hackingwithswift.com
 
+https://useyourloaf.com
 
+https://appicon.co
+
+https://www.youtube.com/channel/UCjkoQk5fOk6lH-shlm53vlw/videos
+
+https://www.raywenderlich.com
 
