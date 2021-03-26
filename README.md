@@ -10,6 +10,8 @@ https://www.hackingwithswift.com
 
 https://useyourloaf.com
 
+For generating app icons 🐰
+
 https://appicon.co
 
 https://www.youtube.com/channel/UCjkoQk5fOk6lH-shlm53vlw/videos
@@ -18,5 +20,10 @@ https://www.raywenderlich.com
 
 https://fuckingclosuresyntax.com
 
+Best concept refreshers 🤸🏼
+
+https://learnappmaking.com/blog/page/3/
+
 For Beautiful Gradients 👀
+
 https://meshgradient.com
